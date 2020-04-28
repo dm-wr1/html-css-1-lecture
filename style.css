@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 32px;
+  margin: 10px;
+}
+
+h2 {
+  color: rebeccapurple;
+}
+
+h1,
+h2,
+h3 {
+  margin: 10px;
+}
+
+.third-heading {
+  font-size: 24px;
+  color: saddlebrown;
+}
+
+.third-heading:hover {
+  color: red;
+}
+
+li {
+  height: 5vh;
+}
+
+#sanic-image {
+  height: 100px;
+  float: left;
+}
+
+.outer-box {
+  padding: 10px;
+  height: 250px;
+  width: 250px;
+  background-color: mediumspringgreen;
+}
+
+.inner-box {
+  height: 50%;
+  width: 50%;
+  background-color: magenta;
+}
+
+div {
+  background-color: black;
+}
+
+.lorem-text {
+  width: 75vw;
+  /* padding: 100px;
+  margin: 100px; */
+  border: 5px solid black;
+  font-size: 18px;
+  color: navy;
+  font-weight: 700;
+  line-height: 200%;
+  text-align: left;
+  font-family: 'Long Cang', cursive;
+  background-color: darkgoldenrod;
+  /* clear: both; */
+}
